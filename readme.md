@@ -1,2 +1,4 @@
-#h1 This is a Go Http server 
-  - It is made using gin 
+# This is a Go Http server using gin 
+  
+  ## Run using 
+  `` go run . `` 
